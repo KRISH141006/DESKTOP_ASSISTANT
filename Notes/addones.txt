@@ -1,0 +1,8 @@
+-if my pc is not connected with wifi ,  and i write connect to wifi it should give me available wifis in range , when i give it ssid , if password is not given ,  then ask for password and connect to it.
+-when any command wants to search on web or i say it to search on web then , it should also check i am connected with internet or not , if not repeat process 1.
+-user can input in any way , either capital or small, all the things will work in small.
+-if i am giving command the i should write "cmd" first and then anything like open filemanager, open notes....
+-add file handeling also.
+-make it portable also.(for different os and pcs.)
+(but how do it know that which apps is on any pc??) 
+-add functionality to give commands on cmd using system() 

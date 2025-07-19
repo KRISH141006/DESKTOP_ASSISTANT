@@ -1,0 +1,7 @@
+assistance for pc - by kratak
+
+done basic commanding ,
+but capital - small letter issue
+not added portablity,not for os,not for different pcs also
+this is what i found on web feature is good
+ 
